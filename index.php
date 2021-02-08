@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <?php include('./views/partials/head.php');?>
-  <title>Vivesm</title>
+  <title>Vivé Suministros Medicos</title>
 </head>
 <body>
   <header>
