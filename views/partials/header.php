@@ -15,7 +15,7 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item nav-link-color-1" href="#">Antecedentes</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item nav-link-color-1" href="#">¿Quienes somos?</a>
+          <a class="dropdown-item nav-link-color-1" href="./about.php">¿Quienes somos?</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item nav-link-color-1" href="#">Integrantes</a>
         </div>
