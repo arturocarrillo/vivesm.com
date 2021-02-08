@@ -3,10 +3,8 @@
     <div class=" text-center mt-2 mb-2">
       <h2 class="text-color-1 font-weight-bold p-3">Vivé Suministros Medicos</h2>
       <p class="text-md-start text-color-1 font-weight-light p-3">
-        Empresa %100 mexicana especializada a la rápida detección del
-        COVID-19.
-        Dedicada a la venta y aplicación de pruebas de antígeno covid -19
-        A domicilio ahorrando tiempo, evitar aglomeraciones.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis aspernatur sed beatae repellat aliquid ullam, similique delectus exercitationem quae, quos laboriosam, dolorum numquam sequi eaque alias ipsa! Est, eligendi repellat.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem quidem similique facere? Delectus nemo temporibus ab magnam tempore in dolor, illo quibusdam reprehenderit culpa debitis, ut dolorum tenetur natus qui.
       </p>
     </div>
     

@@ -29,7 +29,7 @@
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-clock m-auto"></i>
-            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;Un
+            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;
               Resultado el mismo día</h5>
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
@@ -66,8 +66,8 @@
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-clock m-auto"></i>
-            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;Un
-              Resultado el mismo día</h5>
+            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;
+              Resultado en 30 minutos</h5>
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-home m-auto"></i>
@@ -76,7 +76,7 @@
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-money-bill-wave m-auto"></i>
-            <h5 class="col-10 text-md text-color-4 font-weight-normal m-auto">&nbsp;$850.00 + IVA</h5>
+            <h5 class="col-10 text-md text-color-4 font-weight-normal m-auto">&nbsp;$950.00 + IVA</h5>
           </div>
           <div class="col-12 d-flex flex-wrap justify-content-center p-3"> <a href="#" class="btn btn-color-1 text-white p-2 m-auto rounded-pill">Agendar</a></div>
         </div>
