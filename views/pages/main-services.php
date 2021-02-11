@@ -34,14 +34,14 @@
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-home m-auto"></i>
-            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;Un
+            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;
               Servicio a domicilio</h5>
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-money-bill-wave m-auto"></i>
             <h5 class="col-10 text-md text-color-4 font-weight-normal m-auto">&nbsp;$850.00 + IVA</h5>
           </div>
-          <div class="col-12 d-flex flex-wrap justify-content-center p-3"> <a href="#" class="btn btn-color-1 text-white p-2 m-auto rounded-pill">Agendar</a></div>
+          <div class="col-12 d-flex flex-wrap justify-content-center p-3"> <a href="mailto:contacto@vivesm.com" class="btn btn-color-1 text-white p-2 m-auto rounded-pill">Agendar</a></div>
         </div>
       </div>
       <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 rounded animate__animated animate__fadeInLeftBig mt-3 mb-3 ">
@@ -71,14 +71,14 @@
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-home m-auto"></i>
-            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;Un
+            <h5 class="col-10 text-md text-color-1 m-auto">&nbsp;
               Servicio a domicilio</h5>
           </div>
           <div class="col-12 d-flex flex-wrap mt-2 mb-2">
             <i class="text-lg text-color-3 fas fa-money-bill-wave m-auto"></i>
             <h5 class="col-10 text-md text-color-4 font-weight-normal m-auto">&nbsp;$950.00 + IVA</h5>
           </div>
-          <div class="col-12 d-flex flex-wrap justify-content-center p-3"> <a href="#" class="btn btn-color-1 text-white p-2 m-auto rounded-pill">Agendar</a></div>
+          <div class="col-12 d-flex flex-wrap justify-content-center p-3"> <a href="mailto:contacto@vivesm.com" class="btn btn-color-1 text-white p-2 m-auto rounded-pill">Agendar</a></div>
         </div>
       </div>
     </div>

@@ -51,7 +51,7 @@
         <div class="col-2 d-flex"><i class="ml-left text-opacity-1 text-xl fas fa-phone-alt"></i>
         </div>
         <div class="col-10 d-flex">
-          <h2 class="d-flex ml-left text-white text-md font-weight-bolt">Linea de Contacto</h2>
+          <h2 class="d-flex ml-left text-white text-md font-weight-bolt">Línea de Contacto</h2>
         </div>
         <div class="col-12 d-flex flex-wrap mt-2 mb-2 p-2">
           <div class="col-12 d-flex p-2">

@@ -25,7 +25,7 @@
           class="text-white fas fa-external-link-square-alt"></i>&nbsp;Viajeros</a>
     </div>
     <div class="col-lg-12 d-flex flex-wrap p-2 text-lg-center">
-      <h2 class="col-12 text-white p-2 m-auto text-sm">Copyright © Vivé Suministros Medicos 2021</h2>
+      <h2 class="col-12 text-white p-2 m-auto text-sm">Copyright © Vivé Suministros Medicos 2021 | Clave de autorización COFEPRIS:</h2>
     </div>
   </div>
 </div>

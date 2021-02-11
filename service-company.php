@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
   <?php include('./views/partials/head.php');?>
-  <title>Vivesm - ¿Quienes somos?</title>
+  <title>Servicio - Pruebas para Empresas</title>
 </head>
 <body>
   <header>
     <?php include('./views/partials/header.php');?>
   </header>
   <main>
-    <?php include('./views/pages/about/main-history.php'); ?>
+    <?php include('./views/pages/services/main-test-company.php'); ?>
   </main>
   <footer>
     <?php include('./views/partials/footer.php');?>

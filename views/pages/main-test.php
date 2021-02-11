@@ -6,7 +6,7 @@
           alt="">
       </div>
       <div class="col-xl-6 col-lg-6 col-md-10 col-sm-12 col-xs-12 d-flex flex-wrap p-3">
-        <h2 class="text-center text-md text-color-1 m-auto font-weight-bold p-2">¿Qué es una prueba de antigenos?
+        <h2 class="text-center text-md text-color-1 m-auto font-weight-bold p-2">¿Qué es una prueba de antígenos?
         </h2>
         <p class="text-sm text-color-1 m-auto font-weight-light p-2">Esta prueba para la COVID-19 detecta
           ciertas proteínas en el virus. Se usa un hisopo para tomar una muestra de fluido de
@@ -20,7 +20,7 @@
           infectado con el virus pero tener un resultado negativo. Según la situación, el médico podría recomendar una
           prueba RCP
           para confirmar un resultado negativo de la prueba de antígeno.</p>
-        <a class="btn btn-lg m-auto btn-color-1 rounded-pill text-white d-flex" href="/contacto">Contactanos</a>
+        <a class="btn btn-lg m-auto btn-color-1 rounded-pill text-white d-flex" href="mailto:contacto@vivesm.com">Contáctanos</a>
       </div>
     </div>
   </div>
