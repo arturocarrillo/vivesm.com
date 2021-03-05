@@ -9,7 +9,7 @@
     <?php include('./views/partials/header.php');?>
   </header>
   <main>
-    <?php include('./views/pages/services/main-test-traveler.php'); ?>
+    <?php include('./views/pages/main-termsandconditions.php'); ?>
   </main>
   <footer>
     <?php include('./views/partials/footer.php');?>

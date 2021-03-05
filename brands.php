@@ -9,7 +9,7 @@
     <?php include('./views/partials/header.php');?>
   </header>
   <main>
-    <?php include('./views/pages/main-privacy.php'); ?>
+    <?php include('./views/pages/brands/main-brands.php'); ?>
   </main>
   <footer>
     <?php include('./views/partials/footer.php');?>

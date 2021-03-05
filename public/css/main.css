@@ -38,6 +38,14 @@
   background-color:#1A5276;
   border-color: #1A5276;
 }
+.btn-white-green{
+  color: #fff;
+  text-decoration: none;
+  transition: all 0.3s linear;
+}
+.btn-white-green:hover{
+  color: #A3E4D7;
+}
 .bg-gray{
   background-color: #F2F4F4 !important;
 }
@@ -70,6 +78,18 @@
 }
 .text-opacity-1{
   color: #EAECEE;
+}
+.text-center{
+  text-align: center;
+}
+.text-justify{
+  text-align: justify;
+}
+.text-left{
+  text-align: left;
+}
+.text-right{
+  text-align: right;
 }
 .nav-link-color-1{
   display: block;
@@ -108,8 +128,6 @@
 .text-xl{
   font-size: 2rem;
 }
-
-
 .w-100{
   width: 100%;
 }

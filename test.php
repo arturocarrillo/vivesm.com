@@ -9,7 +9,7 @@
     <?php include('./views/partials/header.php');?>
   </header>
   <main>
-    <?php include('./views/pages/about/main-history.php'); ?>
+    <?php include('./views/pages/test/main-antigenos.php'); ?>
   </main>
   <footer>
     <?php include('./views/partials/footer.php');?>

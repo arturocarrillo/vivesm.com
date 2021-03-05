@@ -37,11 +37,9 @@
           <h2 class="d-flex ml-left text-white text-md font-weight-bolt">Pruebas a Domicilio</h2>
         </div>
         <div class="col-12 d-flex flex-wrap mt-2 mb-2 p-2">
-          <div class="col-12 d-flex p-2">
-            <p class="w-100 text-opacity-1 text-sm font-weight-normal m-auto">Lorem ipsum dolor sit amet consectetur,
-              adipisicing elit. Obcaecati, reprehenderit.
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate necessitatibus sapiente porro nihil
-              animi odio ipsa fuga a doloribus nemo?</p>
+          <div class="col-12 d-flex flex-wrap p-2">
+            <p class="w-100 text-opacity-1 text-sm font-weight-normal m-auto p-2">Para las pruebas a domicilio de antígenos el tiempo maximo del resultado es de 12 horas.</p>
+            <p class="w-100 text-opacity-1 text-sm font-weight-normal m-auto p-2">Para las pruebas Exprés el tiempo estimado del resultado es de 35 a 45 minutos.</p>
           </div>
         </div>
       </div>
@@ -55,9 +53,7 @@
         </div>
         <div class="col-12 d-flex flex-wrap mt-2 mb-2 p-2">
           <div class="col-12 d-flex p-2">
-            <p class="w-100 text-opacity-1 text-sm font-weight-normal m-auto">Lorem ipsum dolor sit amet consectetur,
-              adipisicing elit. Obcaecati, reprehenderit.
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate necessitat</p>
+            <p class="w-100 text-opacity-1 text-sm font-weight-normal m-auto p-2">Recuerda que para la prueba de antígeno la ventana es de 2 días antes del primer síntoma hasta 7 días después.</p>
           </div>
         </div>
       </div>

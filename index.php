@@ -13,7 +13,6 @@
     <?php include('./views/pages/main-adds.php'); ?>
     <?php include('./views/pages/main-about.php'); ?>
     <?php include('./views/pages/main-test.php'); ?>
-    <?php include('./views/pages/main-product.php'); ?>
     <?php include('./views/pages/main-services.php'); ?>
   </main>
   <footer>
